@@ -1,0 +1,7 @@
+ECR-0001 : Ecran d'accueil de l'application 
+ECR-0002 : Inscription nouvel utilisateur
+ECR-0003 : Consultation structures gérées par la solution
+ECR-0004 : Accueil connecté de l'application
+ECR-0005 : Perte de mot de passe
+ECR-0006 : Changement de mot de passe
+ECR-0007 : Mon compte
